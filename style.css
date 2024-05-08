@@ -25,7 +25,7 @@ body, html {
   }
   
   header {
-    background-color: rgba(0, 0, 0, 0.5); 
+    background-color: rgba(180, 13, 13, 0.5); 
     color: #ffffff;
   }
   
@@ -110,12 +110,11 @@ body, html {
     width: 15%;
 
   }
-.imagem-jogo{
-    width: 55%;
-
-  }
 .imagem-logo{
-    width: 15%;
+    text-align:center;
+    padding: 16px 0;
+} 
+.imagem-logo{
+    width: 05%;
 
 }
-
