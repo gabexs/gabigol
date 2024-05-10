@@ -1,6 +1,6 @@
 header {
     background-color:#007A33
-    color white
+    color rgb(23, 46, 23)
  }
 body, html {
     margin: 0;
@@ -25,8 +25,8 @@ body, html {
   }
   
   header {
-    background-color: rgba(180, 13, 13, 0.5); 
-    color: #ffffff;
+    background-color: rgba(139, 206, 167); 
+    color: #7ecf89;
   }
   
   h1 {
@@ -44,29 +44,31 @@ body, html {
   
   nav ul li a {
     text-decoration: none;
-    color: #ffffff;
+    color: #492222;
   }
   
   main {
-    background-color: rgba(255, 255, 255, 0.8); 
+    background-color: rgb(180, 180, 180); 
     color: #000000; 
   }
   
   footer {
     background-color: rgba(0, 0, 0, 0.5); 
-    color: #ffffff;
+    color: #223f2b;
     text-align: center; 
   }
   
   body {
+    font-size: 20px;
+    background-color: #dddddd;
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
   }
   
   header {
-    background-color: #007A33;
-    color: #fff;
+    background-color: #155a19;
+    color: rgb(26, 48, 30);
     padding: 20px;
     text-align: center;
   }
@@ -82,7 +84,7 @@ body, html {
   }
   
   nav ul li a {
-    color: #fff;
+    color: rgb(139, 206, 167);
     text-decoration: none;
   }
   
@@ -103,16 +105,21 @@ body, html {
   }
   
   .social-links li a {
-    color: #fff;
+    color: rgb(13, 116, 30);
     text-decoration: none;
   }
 .imagem-jogadores{
     width: 15%;
+    border: 2px solid #000;
+    border-radius: 8px;
 
   }
 .imagem-logo{
+    border: 2px solid #000;
+    border-radius: 8px;
     text-align:center;
-    padding: 16px 0;
+    padding: 14px 0;
+    
 } 
 .imagem-logo{
     width: 05%;
